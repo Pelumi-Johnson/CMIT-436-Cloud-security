@@ -13,3 +13,11 @@ UMGC lab focused on creating a virtual machine using Hyper-V Manager and install
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/-Creating-a-Virtual-Machine-and-Installing-Ubuntu-Using-Hyper-V/tree/main?tab=readme-ov-file)
 
 ---
+
+## 🔍 Displaying Metadata Information (ExifTool)
+
+UMGC cloud security lab focused on analyzing and modifying image metadata using ExifTool through command-line verification techniques.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Displaying-Metadata-Information-ExifTool-/tree/main)
+
+---
