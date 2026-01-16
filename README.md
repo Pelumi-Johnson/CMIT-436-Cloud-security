@@ -21,3 +21,9 @@ UMGC cloud security lab focused on analyzing and modifying image metadata using 
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Displaying-Metadata-Information-ExifTool-/tree/main)
 
 ---
+
+## 🌐 Capturing Network Traffic Using Wireshark
+
+This lab demonstrates how to use Wireshark, a network protocol analyzer, to capture live network traffic and save packet data for further analysis. 
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/-Capturing-Network-Traffic-Using-Wireshark/tree/main)
