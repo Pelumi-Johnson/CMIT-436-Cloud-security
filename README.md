@@ -38,4 +38,14 @@ The objective of this lab was to configure and perform an incremental backup on 
 
 ---
 
+## 💽 Taking a Full Backup Using Windows Server Backup
+
+The objective of this lab was to configure and perform a full backup on a Windows Server system using Windows Server Backup.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Taking-a-Full-Backup-Using-Windows-Server-Backup?tab=readme-ov-file)
+
+---
+
+
+
 
