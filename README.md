@@ -46,6 +46,12 @@ The objective of this lab was to configure and perform a full backup on a Window
 
 ---
 
+## 🧊 Creating an Amazon S3 Glacier Storage Using Lifecycle Rules
 
+The objective of this lab was to create an Amazon S3 bucket, upload an object, and configure a lifecycle rule to automatically transition the object to Amazon S3 Glacier Instant Retrieval.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Creating-an-Amazon-S3-Glacier-Storage-Using-Lifecycle-Rules/tree/main?tab=readme-ov-file)
+
+---
 
 
