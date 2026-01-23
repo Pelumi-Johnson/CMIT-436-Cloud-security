@@ -22,6 +22,14 @@ UMGC cloud security lab focused on analyzing and modifying image metadata using 
 
 ---
 
+## 💾 Taking an Incremental Backup Using Windows Server Backup
+
+The objective of this lab was to configure and perform an incremental backup on a Windows Server system using Windows Server Backup.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Taking-an-Incremental-Backup-Using-Windows-Server-Backup/tree/main)
+
+---
+
 ## 🌐 Capturing Network Traffic Using Wireshark
 
 This lab demonstrates how to use Wireshark, a network protocol analyzer, to capture live network traffic and save packet data for further analysis. 
