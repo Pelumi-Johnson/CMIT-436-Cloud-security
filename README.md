@@ -1,4 +1,4 @@
-# 🔐 Observing an MD5-Generated Hash Value
+# ☁️ CMIT 436 – Cloud Security
 
 ![Badge](https://img.shields.io/badge/Cloud%20Security-IAM%20%7C%20Encryption-red?style=for-the-badge)
 
@@ -54,7 +54,7 @@ The objective of this lab was to create an Amazon S3 bucket, upload an object, a
 
 ---
 
-## 🧊 Creating an Amazon S3 Glacier Storage Using Lifecycle Rules
+## 🔐 Observing an MD5-Generated Hash Value
 
 The objective of this lab was to observe and verify an MD5-generated hash value for a downloaded file. 
 
