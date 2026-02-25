@@ -66,7 +66,7 @@ The objective of this lab was to observe and verify an MD5-generated hash value 
 
 The objective of this lab was to observe and verify an SHA-256 generated hash value for a downloaded file.
 
-➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Observing-an-SHA256-Generated-Hash-Value/tree/main?tab=readme-ov-file)
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Observing-an-SHA256-Generated-Hash-Value/blob/main/Observing%20an%20SHA256-Generated%20Hash%20Value.pdf)
 
 ---
 
