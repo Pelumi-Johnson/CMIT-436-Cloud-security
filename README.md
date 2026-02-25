@@ -77,3 +77,11 @@ The objective of this lab was to create a CloudWatch dashboard in AWS and add a 
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Creating-a-CloudWatch-Dashboard-and-Adding-a-Metric/blob/main/_Creating%20a%20CloudWatch%20Dashboard%20and%20Adding%20a%20Metric.pdf)
 
 ---
+
+## 🕷️ Performing a MITM Attack  
+
+The objective of this lab was to demonstrate a Man-in-the-Middle (MITM) attack using ARP spoofing.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/-Performing-a-MITM-Attack-/blob/main/Performing%20a%20MITM%20Attack%20%20.pdf)
+
+---
