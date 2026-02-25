@@ -69,3 +69,11 @@ The objective of this lab was to observe and verify an SHA-256 generated hash va
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Observing-an-SHA256-Generated-Hash-Value/tree/main?tab=readme-ov-file)
 
 ---
+
+## 🌐 Creating a CloudWatch Dashboard and Adding a Metric
+
+The objective of this lab was to create a CloudWatch dashboard in AWS and add a metric widget to monitor service usage.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Creating-a-CloudWatch-Dashboard-and-Adding-a-Metric/blob/main/_Creating%20a%20CloudWatch%20Dashboard%20and%20Adding%20a%20Metric.pdf)
+
+---
